@@ -1,0 +1,12 @@
+<p>
+Author: Harry Day <br>
+University of Sheffield
+</p>
+
+<p>
+Slides with experimental details can be downloaded from here: <a href="https://github.com/zaman13/Files/blob/main/iLabs%20Bending%20of%20beams/Bending-Slides.pdf" target="_blank" download="" pdf="">Download File</a>
+</p>
+
+<p>
+Lab sheet of the experimental can be downloaded from here: <a href="https://github.com/zaman13/Files/blob/main/iLabs%20Bending%20of%20beams/Bending-Labsheet.pdf" target="_blank" download="" pdf="">Download File</a>
+</p>
